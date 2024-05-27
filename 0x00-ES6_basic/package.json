@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "0x00-ES6_basic",
   "main": "index.js",
-  "scripts": {npm run dev
+  "scripts":{
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
